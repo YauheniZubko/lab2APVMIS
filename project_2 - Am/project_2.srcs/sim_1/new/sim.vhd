@@ -91,8 +91,8 @@ CCK<=not CCK after 2ns;
 RCK<=not CCK;
 notCCLR<=not notCCLR after 512ns;
 notLOAD<=not notLOAD after 1024ns;
---ENP
---ENT
+notENP<= not notENP after 16384ns;
+notENT<=not notENT after 32768ns;
 UnotD<=not UnotD after 2048ns;
 RnotC<=not RnotC after 4096 ns;
 notG<=not notG after 8192ns;

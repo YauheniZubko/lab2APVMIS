@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Oct  1 19:15:49 2019
+# Process ID: 1408
+# Current directory: E:/project_2 - ready
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2468 E:\project_2 - ready\project_2.xpr
+# Log file: E:/project_2 - ready/vivado.log
+# Journal file: E:/project_2 - ready\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/project_2 - ready/project_2.xpr}
+update_compile_order -fileset sources_1
