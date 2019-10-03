@@ -1,0 +1,105 @@
+/*
+
+Xilinx Vivado v2018.2 (64-bit) [Major: 2018, Minor: 2]
+SW Build: 2258646 on Thu Jun 14 20:03:12 MDT 2018
+IP Build: 2256618 on Thu Jun 14 22:10:49 MDT 2018
+
+Process ID: 11784
+License: Customer
+
+Current time: 	Mon Sep 30 11:42:28 MSK 2019
+Time zone: 	Moscow Standard Time (Europe/Moscow)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1536x864
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 11 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	D:/Vivado/Vivado/2018.2/tps/win64/jre
+Java executable location: 	D:/Vivado/Vivado/2018.2/tps/win64/jre/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 2 GB
+
+
+User name: 	zheny
+User home directory: C:/Users/zheny
+User working directory: C:/Users/zheny/Desktop/project_2 - ready
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: D:/Vivado/Vivado
+HDI_APPROOT: D:/Vivado/Vivado/2018.2
+RDI_DATADIR: D:/Vivado/Vivado/2018.2/data
+RDI_BINDIR: D:/Vivado/Vivado/2018.2/bin
+
+Vivado preferences file location: C:/Users/zheny/AppData/Roaming/Xilinx/Vivado/2018.2/vivado.xml
+Vivado preferences directory: C:/Users/zheny/AppData/Roaming/Xilinx/Vivado/2018.2/
+Vivado layouts directory: C:/Users/zheny/AppData/Roaming/Xilinx/Vivado/2018.2/layouts
+PlanAhead jar file location: 	D:/Vivado/Vivado/2018.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/zheny/Desktop/project_2 - ready/vivado.log
+Vivado journal file location: 	C:/Users/zheny/Desktop/project_2 - ready/vivado.jou
+Engine tmp dir: 	C:/Users/zheny/Desktop/project_2 - ready/.Xil/Vivado-11784-DESKTOP-AI0J7HS
+
+Xilinx Environment Variables
+----------------------------
+XILINX: D:/Vivado/Vivado/2018.2/ids_lite/ISE
+XILINX_DSP: D:/Vivado/Vivado/2018.2/ids_lite/ISE
+XILINX_PLANAHEAD: D:/Vivado/Vivado/2018.2
+XILINX_SDK: D:/Vivado/SDK/2018.2
+XILINX_VIVADO: D:/Vivado/Vivado/2018.2
+XILINX_VIVADO_HLS: D:/Vivado/Vivado/2018.2
+
+
+GUI allocated memory:	144 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 478 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// [GUI Memory]: 33 MB (+32203kb) [00:00:11]
+// [Engine Memory]: 397 MB (+265083kb) [00:00:11]
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// Opening Vivado Project: C:\Users\zheny\Desktop\project_2 - ready\project_2.xpr. Version: Vivado v2018.2 
+// bx (ck):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project {C:/Users/zheny/Desktop/project_2 - ready/project_2.xpr} 
+// [GUI Memory]: 58 MB (+24224kb) [00:00:17]
+// [Engine Memory]: 477 MB (+62589kb) [00:00:17]
+// WARNING: HTimer (HSTRUtils Dump STR Log Timer) is taking 741ms to process. Increasing delay to 4000 ms.
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project {C:/Users/zheny/Desktop/project_2 - ready/project_2.xpr} 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// HMemoryUtils.trashcanNow. Engine heap size: 489 MB. GUI used memory: 33 MB. Current time: 9/30/19 11:42:30 AM MSK
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2018.2/data/ip'. 
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 541 MB (+41881kb) [00:00:32]
+// [GUI Memory]: 63 MB (+1863kb) [00:00:34]
+// [GUI Memory]: 72 MB (+6280kb) [00:00:34]
+// [Engine Memory]: 569 MB (+1864kb) [00:00:34]
+// HMemoryUtils.trashcanNow. Engine heap size: 591 MB. GUI used memory: 43 MB. Current time: 9/30/19 11:42:45 AM MSK
+// Project name: project_2; location: C:/Users/zheny/Desktop/project_2 - ready; part: xc7a200tfbg676-2
+// Tcl Message: open_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:19 . Memory (MB): peak = 759.684 ; gain = 91.734 
+dismissDialog("Open Project"); // bx (ck)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// Tcl Message: update_compile_order -fileset sources_1 
+// WARNING: HTimer (ActiveMsgMonitor Process Messages Timer) is taking 215ms to process. Increasing delay to 2000 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 595 MB. GUI used memory: 34 MB. Current time: 9/30/19 1:29:45 PM MSK

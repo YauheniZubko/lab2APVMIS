@@ -1,0 +1,7 @@
+Running: xsim.dir/jksim_behav/xsimk.exe -simmode gui -wdb jksim_behav.wdb -simrunnum 0 -socket 50637
+Design successfully loaded
+Design Loading Memory Usage: 5400 KB (Peak: 5400 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 5984 KB (Peak: 5984 KB)
+Simulation CPU Usage: 0 ms

@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/d_trigger.vhd" \
+"../../../../project_2.srcs/sources_1/new/rs_trigger.vhd" \
+"../../../../project_2.srcs/sources_1/new/rs_triggerx8.vhd" \
+"../../../../project_2.srcs/sources_1/new/t_trigger.vhd" \
+"../../../../project_2.srcs/sources_1/new/threest.vhd" \
+"../../../../project_2.srcs/sim_1/new/simulation.vhd" \
+
+# Do not sort compile order
+nosort
